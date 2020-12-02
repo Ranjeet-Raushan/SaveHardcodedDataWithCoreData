@@ -25,4 +25,3 @@ class ViewController: UIViewController {
     }
   }
 }
-// Saving Some Hardcoded data in swift using Core Data
